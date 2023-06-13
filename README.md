@@ -1,12 +1,7 @@
 # Assignment
-
-•	How can you help Sunita S
-
-•	harma (65+ yearsold) to live a healthier and better life?
-
-•	Identify one use case for elderly care (for the age group
-65+) and create a working prototype to demonstrate
-your idea using technology known to you.
+      •	How can you help Sunita S
+      •	harma (65+ yearsold) to live a healthier and better life?
+      •	Identify one use case for elderly care (for the age group65+) and create a working prototype to demonstrate your idea using technology known to you.
 
 
 ## Name of the application: 
